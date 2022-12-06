@@ -1,10 +1,10 @@
 README.TXT
 
 
-download installer.exe
+download installer.html
 
 
-run installer.exe
+run installer.html
 
 
 select install
