@@ -1,13 +1,13 @@
 README.TXT
 
 
-download installer.html
+download installer.html or run https://sweetcats1.glitch.me/install.html website
 
 
-run installer.html
+run installer.html or click download .exe and download liblaries
 
 
-select install
+only for coming soon exe version (select install)
 
 
 if game got installed run it!
